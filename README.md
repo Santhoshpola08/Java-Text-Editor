@@ -4,7 +4,7 @@ This project is similar to a mini version of Notepad, developed using Java's GUI
 
 # 🚀Features
 
->> File Menu
+ 1. File Menu
 
    >> New - create a new document
 
@@ -14,13 +14,13 @@ This project is similar to a mini version of Notepad, developed using Java's GUI
    
    >> Exit - with save confirmation
 
->> Edit Menu
+2. Edit Menu
 
    >> Cut, Copy, Paste
    
    >> Delete text selection
 
->> View Menu
+3. View Menu
 
    >> Zoom
    
