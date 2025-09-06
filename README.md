@@ -5,23 +5,35 @@ This project is similar to a mini version of Notepad, developed using Java's GUI
 # 🚀Features
 
 >> File Menu
+
    >> New - create a new document
+
    >> Open - load existing text files
+   
    >> Save / Save As - store text content to a file
+   
    >> Exit - with save confirmation
 
 >> Edit Menu
+
    >> Cut, Copy, Paste
+   
    >> Delete text selection
 
 >> View Menu
+
    >> Zoom
+   
    >> Status Bar
+   
    >> Word Wrap
 
 # ⚙️Tech Stack
+
 >> Progeaming Language: Java
+
 >> GUI Framework: Java Swing (JFrame, JMenuBar, JTexyArea, JFileChooser, JOptionPane)
+
 >> I/O Handling: BufferedReader, BufferedWrite, FileReader, FileWriter
 
 # ▶️How to Run the Project
