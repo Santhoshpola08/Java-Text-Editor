@@ -38,7 +38,7 @@ This project is similar to a mini version of Notepad, developed using Java's GUI
 
 # ▶️How to Run the Project
 1. Clone the repository:
-    git clone https://github.com/<your-username>/text-editor.git
+    git clone [https://github.com/<your-username>/text-editor.git](https://github.com/Santhoshpola08/Java-Text-Editor)
 2. Navigate into the folder
     cd text-editor
 3. Compile the Java file:
